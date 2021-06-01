@@ -1,5 +1,5 @@
 ## Hi there i am the yara 👋
-- I live in :Brazil:, *Nordestina* :cherry_blossom: :cactus:
+- I live in Brazil , *Nordestina* :cherry_blossom: :cactus:
 - 🌱 I’m currently learning **html** e **CSS** :dart:
 ## Social Networks :mailbox_with_mail:	
 <a href="https://www.instagram.com/yaramary19/" target="blanck_">
