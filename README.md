@@ -9,11 +9,14 @@
   <img aling="center" alt="yara-maria" height= "42" whidth="30" src="https://images.vexels.com/media/users/3/223136/isolated/preview/984f500cf9de4519b02b354346eb72e0-iacute-cone-do-facebook-nas-redes-sociais-by-vexels.png" style="max-width:100%;">
 </a>
   
-  ## Status
+  ## Status 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaraMaria-ux&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
-  
+   
+  <a href="https://github.com/YaraMaria-ux">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YaraMaria-ux&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaraMaria-ux&layout=compact&langs_count=16&theme=dracula"/>
+   
+     
 
 <!--**YaraMaria-ux/YaraMaria-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
